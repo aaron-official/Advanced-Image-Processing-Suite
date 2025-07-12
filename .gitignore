@@ -27,3 +27,4 @@ build/
 *.bak
 *.swp
 *.tmp
+.vercel
